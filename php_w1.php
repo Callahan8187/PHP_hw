@@ -2,13 +2,16 @@
 
 <head>
 
+<meta charset="utf-8">
 <title>php_hw1</title>
 
 </head>
 
 <body>
 
-資管No.1
+    <?php
+         echo “資管No.1\n”;
+        ?>
 
 </body>
 

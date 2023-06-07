@@ -1,0 +1,33 @@
+body {
+	background-image: url('background.png');
+	background-color: transparent;
+	color: #00008B;
+}
+
+#header {
+	position: fixed;
+	top: 10px;
+	right: 10px;
+}
+
+#header a {
+	margin-right: 10px;
+	color: #00008B;
+	text-decoration: none;
+	background-color: transparent;
+}
+
+#login-button {
+	position: fixed;
+	bottom: 10px;
+	left: 10px;
+	border: 2px solid #00BFFF;
+	border-radius: 20px;
+	padding: 10px 20px;
+	background-color: #87CEFA;
+	color: #00008B;
+}
+
+#login-button:hover {
+	border-color: #1E90FF;
+}
